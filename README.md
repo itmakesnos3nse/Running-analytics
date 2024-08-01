@@ -37,8 +37,8 @@ Additionally, other columns contain information about age, gender, and speed (in
 1. How many times more runners are there in the 50 km races than in the 50-mile races?
 2. What proportion of the two types of races are men, and what proportion are women?
 3. How is the average speed distributed in each type of race for men and women?
-4. Which age groups perform better in the 50-mile races? (>= 20 races)
-5. Which age groups perform worse in the 50-mile races? (>= 10 races)
+4. Which age groups perform better in the 50-mile races? (20+ races min)
+5. Which age groups perform worse in the 50-mile races? (10+ races min)
 6. In which season do athletes run the distance faster?
 
 The link to the dataset is in the Jupyter Notebook
