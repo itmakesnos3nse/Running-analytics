@@ -1,6 +1,8 @@
 # Running-analytics
 Exploratory data analysis of the big dataset of ultra-marathon running
 
+Used Python, and the libraries Pandas and Seaborn
+
 ## File Description
 The dataset contains 7,461,226 records of ultra-marathon races from 1,641,168 unique athletes.
 
@@ -40,5 +42,6 @@ Additionally, other columns contain information about age, gender, and speed (in
 4. Which age groups perform better in the 50-mile races? (20+ races min)
 5. Which age groups perform worse in the 50-mile races? (10+ races min)
 6. In which season do athletes run the distance faster?
+
 
 The link to the dataset is in the Jupyter Notebook
