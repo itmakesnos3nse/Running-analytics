@@ -40,3 +40,5 @@ Additionally, other columns contain information about age, gender, and speed (in
 4. Which age groups perform better in the 50-mile races? (>= 20 races)
 5. Which age groups perform worse in the 50-mile races? (>= 10 races)
 6. In which season do athletes run the distance faster?
+
+The link to the dataset is in the Jupyter Notebook
